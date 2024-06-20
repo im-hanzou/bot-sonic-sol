@@ -3,6 +3,7 @@
 - Create Account & Backup
 - Click Settings > Solana > RPC Connect > Custom
 - Input :  https://devnet.sonic.game
+### Register SonicGame
 - Register : [https://odyssey.sonic.game](https://odyssey.sonic.game/?join=ILuPNI)
 - Connect Backpack Wallet
 - Claim Faucet: https://faucet.sonic.game
@@ -10,7 +11,7 @@
 - Complete Onchain Task
 - Done
 
-## Langkah-langkah
+## Langkah-langkah memakai bot
 
 ### 1. Clone Repositori
 
