@@ -1,10 +1,9 @@
-### New Incentivized Testnet : Sonic 
+### New Incentivized Testnet : SonicGame
 - Download Wallet: <a href="https://chromewebstore.google.com/detail/backpack/aflkmfhebedbjioipglgcbcmnbpgliof">Backpack Wallet<a>
 - Create Account & Backup
 - Click Settings > Solana > RPC Connect > Custom
 - Input :  https://devnet.sonic.game
-
-### Register : <a href="https://odyssey.sonic.game/?join=ILuPNI">https://odyssey.sonic.game</a>
+- Register : <a href="https://odyssey.sonic.game/?join=ILuPNI">https://odyssey.sonic.game</a>
 - Connect Backpack Wallet
 - Claim Faucet: https://faucet.sonic.game
 - Complete All Task
